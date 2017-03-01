@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>vshader0c.glsl</file>
+        <file>fshader0c.glsl</file>
+        <file>vshader2a.glsl</file>
+        <file>fshader2a.glsl</file>
+        <file>fshader2b.glsl</file>
+        <file>vshader2b.glsl</file>
+        <file>vshader3a1.glsl</file>
+        <file>fshader3a1.glsl</file>
+        <file>vshader3a2.glsl</file>
+        <file>fshader3a2.glsl</file>
+        <file>vshader3b1.glsl</file>
+        <file>fshader3b1.glsl</file>
+        <file>fshader3b2.glsl</file>
+        <file>vshader3b2.glsl</file>
+        <file>fshader4a1.glsl</file>
+        <file>vshader4a1.glsl</file>
+        <file>fshader4a2.glsl</file>
+        <file>vshader4a2.glsl</file>
+        <file>fshader4a3.glsl</file>
+        <file>vshader4a3.glsl</file>
+        <file>fshader4a4.glsl</file>
+        <file>vshader4a4.glsl</file>
+        <file>fshader4a5.glsl</file>
+        <file>vshader4a5.glsl</file>
+        <file>mandrill.jpg</file>
+    </qresource>
+</RCC>
